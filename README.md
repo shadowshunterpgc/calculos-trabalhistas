@@ -1,4 +1,4 @@
-# Cáculos Trabalhistas
+# Cálculos Trabalhistas
 Projeto criado em Python/Jupyter para simulação de cáculos para recisões trabalhistas
 
 
